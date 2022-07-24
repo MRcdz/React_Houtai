@@ -1,0 +1,8 @@
+.ant-menu-item {
+  margin-top: 10px!important;
+}
+
+.ant-menu li:first-child {
+  margin-top: 0!important;
+  border-top: 1px solid #888;
+}

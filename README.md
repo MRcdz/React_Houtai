@@ -1,10 +1,10 @@
-# Getting Started with Create React App
+# 这是一个 React 后台系统的项目
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## 这里是怎么启动项目
 
-In the project directory, you can run:
+在终端中运行下面的命令:
 
 ### `npm start`
 

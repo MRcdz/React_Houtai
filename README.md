@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 这是一个 React 后台系统的项目
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# React_Houtai
+2022年7月24日结
+>>>>>>> 0edd2e90e7abf272ae9275ad135125cb35f08d3c
